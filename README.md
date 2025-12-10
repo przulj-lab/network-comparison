@@ -65,8 +65,8 @@ This toolkit computes eight alignment-free network distance measures:
 ## Installation
 
 ```bash
-git clone https://github.com/przulj-lab/graphlet-distances.git
-cd graphlet-distances
+git clone https://github.com/przulj-lab/network-comparison.git
+cd network-comparison
 ```
 
 ## Usage
