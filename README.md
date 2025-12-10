@@ -51,8 +51,8 @@ This toolkit computes eight alignment-free network distance measures:
 
 ### Tools Included
 
-- **[Computing GDV Signatures](https://github.com/przulj-lab/network-comparison/count.py)** - Script for computing graphlet degree vector signatures
-- **[Network Comparison Script](https://github.com/przulj-lab/network-comparison/network_comparison.py)** - Main script for computing network distances
+- **[Computing GDV Signatures](https://github.com/przulj-lab/network-comparison/blob/main/count.py)** - Script for computing graphlet degree vector signatures
+- **[Network Comparison Script](https://github.com/przulj-lab/network-comparison/blob/main/network_comparison.py)** - Main script for computing network distances
 
 *Note: If download links don't work when clicked, copy and paste the URLs directly into your browser's address bar.*
 
