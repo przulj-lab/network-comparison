@@ -16,8 +16,8 @@ These are the Python scripts we used to compute the network distances presented 
 
 ## Scripts
 
-- [Computing GDV signatures](count) (`count.py`)
-- [Network comparison script](network_comparison.py) (`network_comparison.py`)
+- [Computing GDV signatures](count)
+- [Network comparison script](network_comparison.py)
 
 ## Usage
 
